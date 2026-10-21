@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+	<head>
+<meta name="sentry-trace" content="090c0a9d4726f9f2656b9a5631f90827-f0e50ee3b71fcd6d-1"/>
+<meta name="baggage" content="sentry-environment=production,sentry-release=0fe16c004f094e82b1e58f687096c6a9,sentry-public_key=40f45c65f0b046421a44d5abd347d1ad,sentry-trace_id=090c0a9d4726f9f2656b9a5631f90827,sentry-sample_rate=1,sentry-transaction=GET%20%2F,sentry-sampled=true"/>
+<script >
+    const f = window.fetch;
+    if(f){
+      window._sentryFetchProxy = function(...a){return f(...a)}
+      window.fetch = function(...a){return window._sentryFetchProxy(...a)}
+    }
+</script>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./wtm_logo_2020.png" />
+		<meta name="viewport" content="width=device-width" />
+		
+	</head>
+	<body>
+		<div style="display: contents">
+			<script>
+				{
+					__sveltekit_1lzb59b = {
+						base: new URL(".", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("./_app/immutable/entry/start.BR5dMvsZ.js"),
+						import("./_app/immutable/entry/app.HaY3VCJ-.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
