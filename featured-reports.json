@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1461,
+    "title": {
+      "rendered": "Topics: US Big Tech"
+    },
+    "acf": {
+      "subhead": "Who's saying what about AI, data centers and Big Tech? ",
+      "reasons": "<ul style=\"list-disc\">\r\n<li>Just how much campaigning against data centers is happening?</li>\r\n<li>Are politicians pro- or anti-AI?</li>\r\n<li>Who's running against Big Tech?</li>\r\n</ul>",
+      "link_to_report_in_trends": "/us/keywords/8f376a75-5ebb-44a0-9d66-f0b5c3f434f2?start_date=2026-10-04&end_date=2026-10-10",
+      "expires": null
+    },
+    "jetpack_featured_media_url": "https://whotargets.me/wp-content/uploads/2026/10/US_Meta_spenders_4th-Oct-2026_10th-Oct-2026-1.png"
+  },
+  {
+    "id": 1445,
+    "title": {
+      "rendered": "Battleground: Texas"
+    },
+    "acf": {
+      "subhead": "Can the Dems win statewide for the first time in years?",
+      "reasons": "<ul class=\"list-disc\">\r\n \t<li>Can James Talarico win the Senate seat?</li>\r\n \t<li>Will Gina Hinojosa become Governor?</li>\r\n \t<li>Can massive PAC spending by Trump and Musk turn the tide?</li>\r\n</ul>",
+      "link_to_report_in_trends": "/reports/d43e3be4-f4ea-4442-891b-1197df9a797b?region=Texas&active_entity_spendings_chart=daily",
+      "expires": null
+    },
+    "jetpack_featured_media_url": "https://whotargets.me/wp-content/uploads/2026/10/US_meta__google_spenders_7th-Sep-2026_6th-Oct-2026.png"
+  },
+  {
+    "id": 1438,
+    "title": {
+      "rendered": "Brazil election 2026"
+    },
+    "acf": {
+      "subhead": "Bolsonaro vs Lula in the run-off",
+      "reasons": "<ul class=\"list-disc\">\r\n \t<li>Bolsonaro Jr leads after the first round...</li>\r\n \t<li>... and seems to have a spending advantage</li>\r\n \t<li>Lula will need a big turnaround in the run-off</li>\r\n</ul>",
+      "link_to_report_in_trends": "/reports/15b695de-2b54-4145-9304-9296a15c0b0e",
+      "expires": null
+    },
+    "jetpack_featured_media_url": "https://whotargets.me/wp-content/uploads/2026/10/BR_meta_spenders_1st-Sep-2026_4th-Oct-2026.png"
+  },
+  {
+    "id": 1426,
+    "title": {
+      "rendered": "US political advertising"
+    },
+    "acf": {
+      "subhead": "Next election: Midterms 2026 on Nov 3rd",
+      "reasons": "<ul class=\"list-disc\">\r\n \t<li>Can the Democrats pick up the Senate?</li>\r\n \t<li>Will they take the big prize of Texas?</li>\r\n \t<li>Can they win really longshot seats like Kansas?</li>\r\n</ul>",
+      "link_to_report_in_trends": "/reports/d43e3be4-f4ea-4442-891b-1197df9a797b",
+      "expires": null
+    },
+    "jetpack_featured_media_url": "https://whotargets.me/wp-content/uploads/2026/10/US_meta__google_spenders_31st-Aug-2026_29th-Sep-2026.png"
+  }
+]
